@@ -36,9 +36,9 @@ It’s part of a broader BI initiative to transition from static reporting to dy
 - screenshots/: Visual previews of dashboard sections
 - README.md: This documentation
 
-======================================================================================================================================
+
 **Note: The .pbix file and datasets are stored privately due to proprietary logic and sensitive data. Access available upon request.**
-======================================================================================================================================
+
 
 **Contact**
 For collaboration, access inquiries, or feedback, feel free to connect on **LinkedIn https://www.linkedin.com/in/dimitris-chios-a793a62a1/** or reach out directly.
