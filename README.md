@@ -1,8 +1,6 @@
 # Hotel-X-Project
 **F&B Ops End-Of-Season Review**
 
-Hotel F&B Department Dashboard – End-of-Season Review
-
 **Overview**
 This Power BI dashboard was developed for the Food & Beverage department of a hotel, designed to support end-of-season analysis and prepare for next-season operations. It consolidates data from multiple systems into a single, UX-optimized view that enables strategic decision-making across departments.
 
