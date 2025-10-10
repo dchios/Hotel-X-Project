@@ -32,8 +32,7 @@ It’s part of a broader BI initiative to transition from static reporting to dy
 - Comparison: Current performance
 
 **Repo Contents**
-- Dashboard.pdf: Public export of the Power BI report
-- screenshots/: Visual previews of dashboard sections
+- Dashboard.pptx: Public export of the Power BI report
 - README.md: This documentation
 
 
